@@ -1,0 +1,113 @@
+body {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.header, .content, .footer{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 120px;
+}
+
+.content {
+	height: 830px;
+	padding-top: 10px;
+}
+
+.footer {
+	display: inline-block;
+	height: 110px;
+	margin-top: 15px;
+	background: #b8b8b8;
+}
+
+#logo, #banner-place, #main-nav {
+	background: #b8b8b8;
+}
+
+#logo {
+	width: 200px;
+	height: 50px;
+	float: left;
+}
+
+#banner-place {
+	width: 350px;
+	height: 50px;
+	float: right;
+}
+
+#main-nav {
+	width: 100%;
+	height: 50px;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+.column-one {
+	float: left;
+	width: 434px;
+	height: 830px;
+	margin-right: 16px;
+}
+
+.column-one div.one {
+	height: 200px;
+	background: #b8b8b8;
+}
+
+.column-one div.two {
+	height: 200px;
+	background: #b8b8b8;
+	margin-top: 15px;
+}
+
+.column-one div.tree{
+	height: 400px;
+	background: #b8b8b8;
+	margin-top: 15px;
+}
+
+.column-two {
+	float: left;
+	width: 217px;
+	height: 800px;
+	margin-right: 8px;
+}
+
+.column-two div.one {
+	height: 240px;
+	background: #b8b8b8;
+}
+
+.column-two div.two {
+	height: 575px;
+	background: #b8b8b8;
+	margin-top: 15px;
+}
+
+.column-tree {
+	float: right;
+	width: 217px;
+	height: 800px;
+}
+
+.column-tree div.one {
+	height: 175px;
+	background: #b8b8b8;
+}
+
+.column-tree div.two {
+	height: 400px;
+	background: #b8b8b8;
+	margin-top: 15px;
+}
+
+.column-tree div.tree {
+	height: 224px;
+	background: #b8b8b8;
+	margin-top: 15px;
+}
