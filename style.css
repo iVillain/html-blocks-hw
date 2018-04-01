@@ -111,3 +111,18 @@ body {
 	background: #b8b8b8;
 	margin-top: 15px;
 }
+
+.text-center {
+	position: relative;
+	top: 20%;
+}
+
+.text-center-1 {
+	position: relative;
+	top: 40%;
+}
+
+.text-center-2 {
+	position: relative;
+	top: 45%;
+}
